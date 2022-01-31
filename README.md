@@ -1,4 +1,5 @@
 # titl.js
+Autoescrito para la pestaña + desabilita el click derecho y rehost
 
 *¿Como se tiene funcionar*?
 
